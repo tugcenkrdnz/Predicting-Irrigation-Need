@@ -1,1 +1,2 @@
 *.pkl filter=lfs diff=lfs merge=lfs -text
+irrigation_champion_model_v2.pkl filter=lfs diff=lfs merge=lfs -text
