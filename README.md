@@ -1,4 +1,4 @@
-# 🌱 Akıllı Tarımsal Sulama Karar Destek Sistemi
+# Kaggle Playground S6E4 - 🌱 Akıllı Tarımsal Sulama Karar Destek Sistemi
 ### (Smart Irrigation Need Prediction)
 
 Bu proje, Kaggle S6E4 "Predicting Irrigation Need" yarışması kapsamında geliştirilmiş, büyük ölçekli tarımsal verileri analiz ederek tarlaların sulama ihtiyacını tahmin eden uçtan uca bir makine öğrenmesi çözümüdür.
